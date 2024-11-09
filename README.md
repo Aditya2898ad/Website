@@ -1,2 +1,2 @@
-# Website
+# website
 Educational Fundraiser Website
